@@ -1,0 +1,6 @@
+This is a simple shell project for Alx students that we have to build using C Language.
+
+A shell is a command-line interface (CLI) program that provides a user-friendly way to interact with an operating system. It acts as an intermediary between the user and the operating system, allowing users to execute various commands, manage files and directories, run applications, and perform system operations, all through a text-based interface.
+
+And I expect to be able to create one that interpret the commands entered by the user and execute them on the underlying operating system. That means which reads the user's input, processes it, and then either executes built-in commands or launches external programs (applications) to perform specific tasks.
+The output of executed commands is displayed in the shell, allowing users to see the results of their actions.
